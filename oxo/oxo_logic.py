@@ -1,3 +1,5 @@
+#oxo game is project from 'python projects' by Laura Cassell and Alan Gauld
+
 #main logic for tic-tac-toe game. generates random moves
 #and checks the results for a winning line
 

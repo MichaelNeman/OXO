@@ -1,3 +1,6 @@
+#oxo game is project from 'python projects' by Laura Cassell and Alan Gauld
+
+
 import os.path
 game_file = ".oxogame.dat"
 

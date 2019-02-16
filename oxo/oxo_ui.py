@@ -1,7 +1,8 @@
+#oxo game is project from 'python projects' by Laura Cassell and Alan Gauld
+
 # oxo UI, use as main module
 
 import oxo_logic
-
 
 
 menu = ["Start new game",
